@@ -1,5 +1,6 @@
-# guide
-# GitHub使用指南
+# 利用GitHub同步协同文档教程
+### 适用于可以在浏览器打开的文件：如:https://soccerhan.github.io/designs_5.1/
+
 ## 指令是指在terminal中操作；操作是指在电脑界面的操作
 
 > **操作1:** 本地创建一个文件夹，用以今后存放上传文件的固定文件夹，如：创建了“portfolio”
